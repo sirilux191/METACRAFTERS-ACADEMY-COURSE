@@ -74,4 +74,4 @@ Metacrafter Sirilux
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. License - see the LICENSE.txt file for details
